@@ -1,5 +1,7 @@
 # wiki.Simba
-all projects: https://github.com/Villavu
+home: https://github.com/Villavu/Simba
+
+root: https://github.com/Villavu
 
 # Learn
 pages: https://github.com/Villavu/Simba/wiki/Colorfinding, https://github.com/Villavu/Simba/wiki/Lape-Tutorial
