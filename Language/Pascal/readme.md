@@ -1,2 +1,6 @@
 # Learn:
-https://www.tutorialspoint.com/pascal/index.htm
+## Tutorial:
+- https://www.tutorialspoint.com/pascal/index.htm
+
+## Wiki:
+- https://wiki.freepascal.org/
