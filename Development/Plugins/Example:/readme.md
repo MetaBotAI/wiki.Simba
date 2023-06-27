@@ -4,3 +4,4 @@ https://github.com/R030t1/SimbaPluginExample
 
 ## SimbaTesseract
 https://github.com/Villavu/SimbaTesseract
+- https://github.com/Villavu/SimbaTesseract/blob/master/.simbapackage
