@@ -1,4 +1,4 @@
-This line in Lazarus `Simba.lpi` defines all unit files in Subdirectories!
+This line in Lazarus' [Simba.lpi](https://github.com/Villavu/Simba/blob/simba1500/Source/Simba.lpi) defines all unit files in Subdirectories!
 ```
 <OtherUnitFiles Value="$(ProjPath);script;forms;codetools;targets;matchtemplate;algorithms;editor;finders;script/imports/lcl;script/imports/simba;script/imports/simbaclasses;package;../Third-Party;../Third-Party/lape;../Third-Party/lape/extensions/ffi;imagebox;colormath;components"/>
 ```
