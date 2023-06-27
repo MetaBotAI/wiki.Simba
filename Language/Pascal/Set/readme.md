@@ -11,3 +11,5 @@ https://en.wikipedia.org/wiki/Pascal_(programming_language)#Set_types
 >Sets of non-contiguous values can be particularly useful, in terms of both performance and readability:
 >
 >`if i in [0..3, 7, 9, 12..15] then ...`
+>
+>For these examples, which involve sets over small domains, the improved performance is usually achieved by the compiler representing set variables as bit vectors. The set operators can then be implemented efficiently as bitwise machine code operations.
