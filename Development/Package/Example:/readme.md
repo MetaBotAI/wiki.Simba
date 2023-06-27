@@ -1,12 +1,7 @@
-# index:
-- https://github.com/Villavu/Simba-Package-List
-- https://github.com/ollydev/SimbaSuggestedPackages
-
-# Example
-## SRL
+# SRL
 https://github.com/Villavu/SRL-Development
 
-## SimbaTesseract
+# SimbaTesseract
 https://github.com/Villavu/SimbaTesseract
 - https://github.com/Villavu/SimbaTesseract/blob/master/.simbapackage
 
@@ -15,7 +10,11 @@ https://github.com/Villavu/SimbaTesseract
 - https://github.com/ollydev/SimbaRecorder
 - https://github.com/ollydev/SimbaPackageCustomEndpoint
 
+# Example
+## index:
+- https://github.com/Villavu/Simba-Package-List
+- https://github.com/ollydev/SimbaSuggestedPackages
 
-# Community thread
+## Community thread
 https://github.com/R030t1/SimbaPluginExample
 - thread: https://villavu.com/forum/showthread.php?t=177714
